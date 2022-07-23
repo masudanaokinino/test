@@ -1,0 +1,21 @@
+body {
+    font-family: "Arial", "Meiryo";
+  }
+  .parent {
+    width: 300px;
+    background-color: yellow;    
+  }
+  .child {
+    width: 150px;
+    background-color: orange;       
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+  #first-paragraph {      
+    margin-bottom: 30px;
+    border: solid 5px yellow; 
+  }
+  #second-paragraph {
+    margin-top: 10px;
+    border: solid 5px yellow; 
+  }
